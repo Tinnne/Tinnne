@@ -1,9 +1,9 @@
 <h1 align="center">Glad You're Here! Let's Make This Journey Amazing. 🚀</h1>
 
 Welcome to my GitHub! 🚀 I’m **Austin Kane**, a passionate **Data Science student** who loves turning ideas into data-driven stories.  
-I explore the intersection of **machine learning, data analysis, and optimization** — constantly learning, experimenting, and building projects that bridge **analytics, creativity, and real-world impact**.  
+I explore the intersection of **machine learning, data analysis, and optimization**. I'm constantly learning, experimenting, and building projects that bridge **analytics, creativity, and real-world impact**.  
 
-Check out my projects at [austinkane.dev](austinkane.dev) and feel free to collaborate. Let’s innovate, learn, and create something amazing together!
+Check out my projects at [austinkane.dev](https://austinkane.dev) and feel free to collaborate. Let’s innovate, learn, and create something amazing together!
 
 ## About me
 - 📊 **Who I Am:** Data science student passionate about turning data into actionable insights.  
