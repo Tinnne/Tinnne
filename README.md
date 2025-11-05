@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Austin Kane</h1>
-<h3 align="center">Data Science student passionate about transforming data into insight and action. Exploring the intersection of machine learning, finance, and optimization — one project, one dataset, one breakthrough at a time</h3>
+<h3 align="center">Data science student | Machine learning explorer</h3>
 
 - 🌱 I’m currently learning **TensorFlow, Sentiment Analysis, OpenCV**
 
