@@ -15,9 +15,7 @@ Check out my projects at [austinkane.dev](https://austinkane.dev) and feel free 
 
 ## Connect with me!
 <p align="left">
-  <a href="https://linkedin.com/in/tinnne" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tinnne" height="30" width="40" />
-  </a>
+  <a href="https://linkedin.com/in/tinnne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tinnne" height="30" width="40" /></a>
   <a href="https://kaggle.com/knaustin" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="knaustin" height="30" width="40" />
   </a>
