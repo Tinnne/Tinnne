@@ -1,4 +1,4 @@
-<h1 align="center">Glad You're Here! Let's Make This Journey Amazing.</h1>
+<h1 align="center">Glad You're Here! Let's Make This Journey Amazing</h1>
 
 Welcome to my GitHub! I’m **Austin Kane**, a passionate **Data Science student** who loves turning ideas into data-driven stories.  
 I explore the intersection of **machine learning, data analysis, and optimization**. I'm constantly learning, experimenting, and building projects that bridge **analytics, creativity, and real-world impact**.  
