@@ -1,17 +1,17 @@
-<h1 align="center">Glad You're Here! Let's Make This Journey Amazing. 🚀</h1>
+<h1 align="center">Glad You're Here! Let's Make This Journey Amazing.</h1>
 
-Welcome to my GitHub! 🚀 I’m **Austin Kane**, a passionate **Data Science student** who loves turning ideas into data-driven stories.  
+Welcome to my GitHub! I’m **Austin Kane**, a passionate **Data Science student** who loves turning ideas into data-driven stories.  
 I explore the intersection of **machine learning, data analysis, and optimization**. I'm constantly learning, experimenting, and building projects that bridge **analytics, creativity, and real-world impact**.  
 
 Check out my projects at [austinkane.dev](https://austinkane.dev) and feel free to collaborate. Let’s innovate, learn, and create something amazing together!
 
 ## About me
-- 📊 **Who I Am:** Data science student passionate about turning data into actionable insights.  
-- 💡 **What I Do:** Exploring **data analysis, machine learning, and optimization** through hands-on projects and creative problem-solving.  
-- 🧠 **Tech I Use:** Python (NumPy, pandas, scikit-learn, TensorFlow), SQL, FastAPI, and Jupyter Notebook — plus Figma and DaVinci Resolve for visualization.  
-- 🚀 **My Passion:** Combining logic and creativity to build smarter, data-driven solutions.  
-- 🌱 **Learning Now:** Deepening skills in **ML modeling**, **feature engineering**, and **data storytelling**.  
-- 🌟 **Let’s Connect:** Open to collaboration, feedback, and new opportunities!
+- **Who I Am:** Data science student passionate about turning data into actionable insights.  
+- **What I Do:** Exploring **data analysis, machine learning, and optimization** through hands-on projects and creative problem-solving.  
+- **Tech I Use:** Python (NumPy, pandas, scikit-learn, TensorFlow), SQL, FastAPI, and Jupyter Notebook.
+- **My Passion:** Combining logic and creativity to build smarter, data-driven solutions.  
+- **Learning Now:** Deepening skills in **ML modeling**, **feature engineering**, and **data storytelling**.  
+- **Let’s Connect:** Open to collaboration, feedback, and new opportunities!
 
 ## Connect with me!
 <p align="left">
