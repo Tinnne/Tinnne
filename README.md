@@ -24,9 +24,6 @@ Check out my projects at [austinkane.dev](https://austinkane.dev) and feel free 
   <a href="https://instagram.com/kn_austinn" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kn_austinn" height="30" width="40" />
   </a>
-  <a href="mailto:austin.kane1812@gmail.com">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" />
-  </a>
 </p>
 
 ## Language and Tools:
